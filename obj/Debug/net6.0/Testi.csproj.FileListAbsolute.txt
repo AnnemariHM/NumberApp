@@ -1,0 +1,15 @@
+C:\Users\annem\OneDrive\Tiedostot\Testi\bin\Debug\net6.0\Testi.exe
+C:\Users\annem\OneDrive\Tiedostot\Testi\bin\Debug\net6.0\Testi.deps.json
+C:\Users\annem\OneDrive\Tiedostot\Testi\bin\Debug\net6.0\Testi.runtimeconfig.json
+C:\Users\annem\OneDrive\Tiedostot\Testi\bin\Debug\net6.0\Testi.dll
+C:\Users\annem\OneDrive\Tiedostot\Testi\bin\Debug\net6.0\Testi.pdb
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.csproj.AssemblyReference.cache
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.AssemblyInfoInputs.cache
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.AssemblyInfo.cs
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.csproj.CoreCompileInputs.cache
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.dll
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\refint\Testi.dll
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.pdb
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\Testi.genruntimeconfig.cache
+C:\Users\annem\OneDrive\Tiedostot\Testi\obj\Debug\net6.0\ref\Testi.dll
